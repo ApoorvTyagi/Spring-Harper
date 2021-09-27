@@ -9,6 +9,6 @@ import java.sql.SQLException;
 @Service
 public class ConnectionService {
     public Connection createConnection() throws SQLException {
-        return DriverManager.getConnection("jdbc:harperdb:Server=https://xxx.harperdbcloud.com;User=xxx;Password=xxx;");
+        return DriverManager.getConnection("jdbc:harperdb:Server=https://xxx.harperdbcloud.com;User=xxx;Password=xxx;UseSSL=true;");
     }
 }
