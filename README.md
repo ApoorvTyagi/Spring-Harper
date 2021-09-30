@@ -1,4 +1,4 @@
 # Harper-Spring
 Integrating HarperDb with Spring Boot to create microservices and Deploy it to AWS Elastic Beanstalk
 
-A complete tutorial blog is coming soon on apporvtyagi.tech
+Checkout the tutorial for complete documentation => https://apoorvtyagi.tech/building-microservices-using-spring-boot-harperdb-and-deploying-it-on-aws
